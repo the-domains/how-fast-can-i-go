@@ -1,0 +1,28 @@
+name: How Fast can I go?
+favicon: null
+layout_spectrum: 0.3681757391896099
+typography_spectrum: 0.5536425274331123
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6684951072093099
+  lightness: 0.4273489424958825
+  saturation: 0.9272042913362384
+  rhythmicContrast: 0.8505479963496327
+purpose: []
