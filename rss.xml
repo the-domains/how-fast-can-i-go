@@ -4,8 +4,16 @@
         <description><![CDATA[Running Experiment ]]></description>
         <link>http://faster.audioforge.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 23:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 23:41:32 GMT</lastBuildDate>
         <atom:link href="http://faster.audioforge.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FT and ST]]></title>
+            <description><![CDATA[<article><h1>FT and ST</h1><h2>FT: </h2><p>This difference in the physical properties of both Lopes and Mamede basically pre-determined their different training and race strategies.
+</p></article>]]></description>
+            <link>http://faster.audioforge.org/ft-and-st/index.html</link>
+            <guid isPermaLink="false">8af25fa1-0caa-467b-bf28-6a0b1c5b82d8</guid>
+            <pubDate>Thu, 18 Feb 2016 23:38:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How fast can I run?]]></title>
             <description><![CDATA[<article><h1>How fast can I run?</h1><p>Why am I training to race faster?</p></article>]]></description>
