@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Running Experiment ]]></title>
         <description><![CDATA[Running Experiment ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://faster.audioforge.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 04:31:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 23:31:02 GMT</lastBuildDate>
+        <atom:link href="http://faster.audioforge.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Why am I training to race faster?</p>]]></description>
-            <link>undefined6525129f-a29c-4ee7-b934-13607c9ed56f/index.html</link>
+            <title><![CDATA[How fast can I run?]]></title>
+            <description><![CDATA[<article><h1>How fast can I run?</h1><p>Why am I training to race faster?</p></article>]]></description>
+            <link>http://faster.audioforge.org/6525129f-a29c-4ee7-b934-13607c9ed56f/index.html</link>
             <guid isPermaLink="false">6525129f-a29c-4ee7-b934-13607c9ed56f</guid>
-            <pubDate>Wed, 17 Feb 2016 04:31:27 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 23:24:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
